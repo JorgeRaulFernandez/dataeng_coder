@@ -2,3 +2,5 @@
 .env
 # Ignorar la carpeta de docker
 docker_shared_folder/
+# Ignorar docker compose
+docker-compose
