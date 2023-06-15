@@ -1,0 +1,4 @@
+# Ignora los archivos relacionados a API keys
+.env
+# Ignorar la carpeta de docker
+docker_shared_folder/
